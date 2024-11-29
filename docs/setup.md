@@ -21,7 +21,7 @@ code . #Opens the vscode in the current directory
 ```
 
 ## Setting up
-First create a `.env` file in your workspace. DM JunJie on slack or Johnny for the password
+First create a `.env` file in your workspace. DM Jun Jie on slack or Johnny for the password
 ```bash
 MONGO_DB_PASSWORD=YOUR_MONGO_DB_PASSWORD
 ```

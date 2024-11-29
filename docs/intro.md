@@ -18,4 +18,3 @@ outline: deep
 ## Optional visual plugins
 * [Charmed Icons](https://marketplace.visualstudio.com/items?itemName=littensy.charmed-icons): Cute Icons for Roblox, but looks nice for web development too
 * [Catppuccin Theme](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc): Cute theming for vscode making you locked in
-

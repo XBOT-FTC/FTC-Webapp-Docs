@@ -14,10 +14,21 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Getting STarted',
+        text: 'Getting Started',
         items: [
           { text: 'Prerequisite', link: '/docs/intro' },
-          { text: 'Setting up', link: '/docs/setup' }
+          { text: 'Setting up', link: '/docs/setup' },
+          { text: 'Stack', link: '/docs/stack' },
+          { text: 'Workspace', link: '/docs/workspace'}
+        ]
+      },
+      {
+        text: 'Tutorials',
+        items: [
+          { text: 'Warning', link: '/docs/warning' },
+          { text: 'NextJS', link: '/docs/nextjs' },
+          { text: 'React', link: '/docs/react' },
+          { text: 'MongoDB', link: '/docs/mongodb'}
         ]
       }
     ],

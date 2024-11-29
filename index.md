@@ -12,7 +12,7 @@ hero:
       link: /docs/intro
     - theme: alt
       text: Our Stack
-      link: /api-examples
+      link: /docs/stack
 
 features:
   - title: Full Stack
@@ -26,4 +26,3 @@ features:
     details: "Full stack web development introduces advanced concepts in programming
     such as database schema design, advanced data structures, state management."
 ---
-
